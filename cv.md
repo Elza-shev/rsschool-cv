@@ -1,26 +1,26 @@
 # *CV*
 
-## Шевченко Елизавета
+## Elizabeth Shevchenko
 
 ## *89852531921*
 
-**Инфо:** Студентка третьего курса РАНХиГС, что в будущем мечтает стать продакт-менеджером в IT-сфере. Пока ничего не умеет, но активно старается это исправить.
+**Info:** 3-year student with an anxiety to learn JavaScript.
 
-**Навыки:** JavaScript, CSS, HTML, WebStorm.
+**Tools:** JavaScript, CSS, HTML, WebStorm.
 
-**Примеры кода:**
+**Code example:**
 ```
 document.body.innerHTML = '<h1>Hello from JavaScript</h1>'
 console.log('Test1gi')
 ```
-**Опыт работы:** 
+**Experience:** 
 
-*Когда-нибудь здесь будут мои проекты*
-* Проект1
-* Проект2
-* Проект3
+*Some day my projects will be listed here*
+* Project1
+* Project2
+* Project3
 
-**Образование:** 
+**Education:** 
   JavaScript (RSschool)
 
-**Английский язык** - C1/C2 - advanced.
+**English** - C1/C2 - advanced.
